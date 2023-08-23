@@ -1,10 +1,10 @@
 ### Un gusto me 👋 presento soy Arthur 😁 
 ### Hi there 👋, I am Arthur 👾
 
-- 🧑‍🎓 Actualmente sigo aprendiendo más acerca de este maravilloso mundo / Currently I am still learning more about this wonderful world
-- 🛠 Me gusta trabajar en equipo / I like team work 
+- 🧑‍🎓I'm a person who's always looking forward to learning something new about the things that I want to be good at that also includes learning new things to keep learning about other topics too //
+Soy una person que siempre desea aprender algo nuevo de las cosas en las que quiero ser bueno, eso también incluye continuar aprendiendo cosas nuevas sobre otros temas también.
 - 🕴 Puedes contactarme / you can contact me
-- 📫 a este correo electrónico / at this email :
+- 📫 a este correo electrónico / at this email : constanzarturo@gmail.com
 - 🔥 Pueden llamarme/you can call me: Athvr 
  
 
