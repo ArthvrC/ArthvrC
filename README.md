@@ -8,12 +8,7 @@ Soy una person que siempre desea aprender algo nuevo de las cosas en las que qui
 - 🔥 Pueden llamarme/you can call me: Athvr 
  
 
- <div>
-   
- <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=ArthvrC&show_icons=true&theme=tokyonight&include_allcommits=true&count_private=true" />
- <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthvrC&layout=compact&langs_count=16&theme=tokyonight" />
- </div>
-  
+
   ##
 ### Lenguajes en aprendizaje / Languages in learning
   <div style="display: inline_block"><br>
