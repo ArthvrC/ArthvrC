@@ -1,9 +1,9 @@
 ### Un gusto me 👋 presento soy Arthur 😁 
-### Hi there 👋, I am Arthur 👾
+
 <p align="center">
     <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=0074E8&lines=Hi%20there%20👋,;I%20am%20Arthur&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&size=22" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=0074E8&lines=Hi%20there%20👋;I%20am%20Arthur&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&size=22" />
   </a>
   
   
